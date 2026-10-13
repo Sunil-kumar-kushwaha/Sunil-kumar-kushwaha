@@ -31,7 +31,7 @@ Innovative Full Stack Web Developer with over 5 years of experience in deliverin
 |---|---|
 | **Role** | SDE @ via.com (EbixCash) |
 | **Academics** | Lovely Professional University Jalandhar Punjab, India |
-| **LeetCode** | 100+ problems solved ✅ |
+| **LeetCode** | 150+ problems solved ✅ |
 
 
 
